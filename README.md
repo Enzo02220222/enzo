@@ -10,3 +10,4 @@
 - [ex01-04終極密碼](https://colab.research.google.com/drive/1UreaWX8v7mIZ20GKfq8v_A1RZtzKzacC)
 - [ex01-05Caesar Cipher Encode and Decode](https://colab.research.google.com/drive/1kRPZKKVSU9krvPx_SP5O0seqLXmwMf-7)
 - [ex01-06簡易購物車](https://colab.research.google.com/drive/1rjZ5mokLl6R36E4fpm5Ivi9bzBnFg19X)
+- [ex01-07美食資訊查詢](https://colab.research.google.com/drive/1jAHoDvnrBVymM1AqirfeXWMRC3yHpTRH#scrollTo=j-f0Ybds1Dya)
