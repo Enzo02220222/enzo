@@ -11,3 +11,5 @@
 - [ex01-05Caesar Cipher Encode and Decode](https://colab.research.google.com/drive/1kRPZKKVSU9krvPx_SP5O0seqLXmwMf-7)
 - [ex01-06簡易購物車](https://colab.research.google.com/drive/1rjZ5mokLl6R36E4fpm5Ivi9bzBnFg19X)
 - [ex01-07美食資訊查詢](https://colab.research.google.com/drive/1jAHoDvnrBVymM1AqirfeXWMRC3yHpTRH#scrollTo=j-f0Ybds1Dya)
+
+- [ex02-01My Chotbot](https://colab.research.google.com/drive/1UFKrvQ8Zri4RBjH7IgBVDbNV1bhgFWsZ#scrollTo=3bATev9qSsI1)
