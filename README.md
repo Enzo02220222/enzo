@@ -13,3 +13,4 @@
 - [ex01-07美食資訊查詢](https://colab.research.google.com/drive/1jAHoDvnrBVymM1AqirfeXWMRC3yHpTRH#scrollTo=j-f0Ybds1Dya)
 
 - [ex02-01My Chotbot](https://colab.research.google.com/drive/1UFKrvQ8Zri4RBjH7IgBVDbNV1bhgFWsZ#scrollTo=3bATev9qSsI1)
+- [ex02-02高雄紅橘線捷運車站位置查詢](https://colab.research.google.com/drive/1sQ10u-Q8-YkhlT1yaXZzZXPHVsY7zE-e#scrollTo=rFUElrYPMUO3)
