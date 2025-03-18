@@ -12,5 +12,7 @@
 - [ex01-06簡易購物車](https://colab.research.google.com/drive/1rjZ5mokLl6R36E4fpm5Ivi9bzBnFg19X)
 - [ex01-07美食資訊查詢](https://colab.research.google.com/drive/1jAHoDvnrBVymM1AqirfeXWMRC3yHpTRH#scrollTo=j-f0Ybds1Dya)
 
+## 02 web crawler
 - [ex02-01My Chotbot](https://colab.research.google.com/drive/1UFKrvQ8Zri4RBjH7IgBVDbNV1bhgFWsZ#scrollTo=3bATev9qSsI1)
 - [ex02-02高雄紅橘線捷運車站位置查詢](https://colab.research.google.com/drive/1sQ10u-Q8-YkhlT1yaXZzZXPHVsY7zE-e#scrollTo=rFUElrYPMUO3)
+- [ex02-03Yahoo 新聞儲存 Google 試算表](https://colab.research.google.com/drive/1PCNYnFYBHq4_NJBcfsPovYCc6kPn_tpa#scrollTo=iMKR_Fcy97sN)
