@@ -19,3 +19,4 @@
 - [EX02-04Download Pokemon Images](https://colab.research.google.com/drive/1JCh4-R8iwqR9dSYr-Da2y_khRhh4-lyB#scrollTo=k1SMbNnjX1kQ)
 - [EX02-05 PTT Gossiping](https://colab.research.google.com/drive/16WLaLSbfuwK66E2ExFdQY0Yz2im7BMBx#scrollTo=XyojP_FyD_q2)
 - [EX02-06 開眼電影](https://colab.research.google.com/drive/1CmU8MvOwYBOFrNODrKrMhrYXcPPMQ2zK#scrollTo=OJ02pvt0QkDW)
+- [EX02-07 KKDay](https://colab.research.google.com/drive/1U6uSuoTSLNRdy5R979M_nY2MinW-xIS8#scrollTo=4y3dC4QrHV36)
