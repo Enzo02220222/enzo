@@ -20,3 +20,6 @@
 - [EX02-05 PTT Gossiping](https://colab.research.google.com/drive/16WLaLSbfuwK66E2ExFdQY0Yz2im7BMBx#scrollTo=XyojP_FyD_q2)
 - [EX02-06 開眼電影](https://colab.research.google.com/drive/1CmU8MvOwYBOFrNODrKrMhrYXcPPMQ2zK#scrollTo=OJ02pvt0QkDW)
 - [EX02-07 KKDay](https://colab.research.google.com/drive/1U6uSuoTSLNRdy5R979M_nY2MinW-xIS8#scrollTo=4y3dC4QrHV36)
+## 03 data analysis
+- [EX03-01 公司薪資概況Ⅰ](https://colab.research.google.com/drive/1v0B7o0jDIS0IORuc3s5dCoRMWblcvwq8#scrollTo=VDWTtNdOK6ZV)
+
