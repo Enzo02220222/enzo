@@ -28,4 +28,6 @@
 - [EX03-05 台灣股票市場個股每日成交資訊](https://colab.research.google.com/drive/1tLncA3jbk3jo86FPCoJQQM0qr-eKu85W#scrollTo=ddpDzQk1bqqC)
 - [EX03-06 出生人口數](https://colab.research.google.com/drive/1NAVODnNocZ3Zvadpe8WsLvR985yjzJMk#scrollTo=vr6lKrJakNui)
 - [EX03-07 Tips](https://colab.research.google.com/drive/1jHA5uT3RbfOqFaeRkQpicQ1lZhRrZFH2#scrollTo=4c0XDKuQHxIm)
+  ## 04
+- [EX05-01 Echo Bot](https://colab.research.google.com/drive/1JsxsPjfZ8ROy5etfkHN39sFN5Z84xpGi#scrollTo=LwVgya7VqikE)
 
