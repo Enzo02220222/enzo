@@ -30,4 +30,7 @@
 - [EX03-07 Tips](https://colab.research.google.com/drive/1jHA5uT3RbfOqFaeRkQpicQ1lZhRrZFH2#scrollTo=4c0XDKuQHxIm)
   ## 04
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1JsxsPjfZ8ROy5etfkHN39sFN5Z84xpGi#scrollTo=LwVgya7VqikE)
+- [EX05-02 Ask Gemini](https://colab.research.google.com/drive/1Et8imx_dcRYsKAtWGGJbgqGFCH-Mmk_D)
+- [EX05-03 Reply Multi-type Messages](https://colab.research.google.com/drive/195_hC-LV0kAXDfbFHx3vvstlNd8AWAbc)
+- [EX05-04 Reply Template Messages](https://colab.research.google.com/drive/1-47fyRJyMP3YmEhwiI3dbmVDbDehQ0ds#scrollTo=ulyIRt-wXDf9)
 
