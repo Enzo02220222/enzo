@@ -31,6 +31,7 @@
 
 ## 04
 - [EX04-01 汽車車型數值資料轉換](https://colab.research.google.com/drive/18DBN4ibftN0VCxX7d_0Fakxbx1S6cCb1#scrollTo=NPbfts6luFNw)
+- [EX04-02 客戶基本資料編碼]([https://colab.research.google.com/drive/1A4UOYBShknHQ-vYK3xOFLsImf8gsjv9E#scrollTo=NUBSUEmvfUwz](https://colab.research.google.com/drive/1A4UOYBShknHQ-vYK3xOFLsImf8gsjv9E#scrollTo=VXuwUZG5nsYV))
 
   ## 05
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1JsxsPjfZ8ROy5etfkHN39sFN5Z84xpGi#scrollTo=LwVgya7VqikE)
