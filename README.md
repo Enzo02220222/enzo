@@ -29,7 +29,7 @@
 - [EX03-06 出生人口數](https://colab.research.google.com/drive/1NAVODnNocZ3Zvadpe8WsLvR985yjzJMk#scrollTo=vr6lKrJakNui)
 - [EX03-07 Tips](https://colab.research.google.com/drive/1jHA5uT3RbfOqFaeRkQpicQ1lZhRrZFH2#scrollTo=4c0XDKuQHxIm)
 
-## 04
+## 04 machine learning
 - [EX04-01 汽車車型數值資料轉換](https://colab.research.google.com/drive/18DBN4ibftN0VCxX7d_0Fakxbx1S6cCb1#scrollTo=NPbfts6luFNw)
 - [EX04-02 客戶基本資料編碼](https://colab.research.google.com/drive/1A4UOYBShknHQ-vYK3xOFLsImf8gsjv9E#scrollTo=VXuwUZG5nsYV)
 - [EX04-03 客戶分群](https://colab.research.google.com/drive/1BzXD5fCB1WsSuv5eF2jwqyiaVgqPDkie#scrollTo=2zWPoT_0uPOn)
@@ -37,7 +37,7 @@
 - [EX04-05 辨識鳶尾花](https://colab.research.google.com/drive/1p1vgqD6SSCYUvvkrS9sIwGGvIv0uQ7Rv#scrollTo=Z7xzNco6zV-V)
 - [EX04-06 ET Today 新聞標題分類](https://colab.research.google.com/drive/1IjC5KbzQNSlVAOGzWphpyjLSOYY_utWZ#scrollTo=XRynfrfg-nYY)
 
-## 05
+## 05 web API
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1JsxsPjfZ8ROy5etfkHN39sFN5Z84xpGi#scrollTo=LwVgya7VqikE)
 - [EX05-02 Ask Gemini](https://colab.research.google.com/drive/1Et8imx_dcRYsKAtWGGJbgqGFCH-Mmk_D)
 - [EX05-03 Reply Multi-type Messages](https://colab.research.google.com/drive/195_hC-LV0kAXDfbFHx3vvstlNd8AWAbc)
