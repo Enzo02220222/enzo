@@ -33,6 +33,7 @@
 - [EX04-01 汽車車型數值資料轉換](https://colab.research.google.com/drive/18DBN4ibftN0VCxX7d_0Fakxbx1S6cCb1#scrollTo=NPbfts6luFNw)
 - [EX04-02 客戶基本資料編碼](https://colab.research.google.com/drive/1A4UOYBShknHQ-vYK3xOFLsImf8gsjv9E#scrollTo=VXuwUZG5nsYV)
 - [EX04-03 客戶分群](https://colab.research.google.com/drive/1BzXD5fCB1WsSuv5eF2jwqyiaVgqPDkie#scrollTo=2zWPoT_0uPOn)
+- [EX04-04 加州房價](https://colab.research.google.com/drive/1wRP1uVJaoxOSOq61NoSSRmrDsE8nr8Tp#scrollTo=4n33oGLnjH7g)
 
 ## 05
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1JsxsPjfZ8ROy5etfkHN39sFN5Z84xpGi#scrollTo=LwVgya7VqikE)
